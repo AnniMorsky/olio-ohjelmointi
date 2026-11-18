@@ -1,0 +1,7 @@
+C:/Users/annim/OneDrive/Tiedostot/h3a/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/h3a.dir
+C:/Users/annim/OneDrive/Tiedostot/h3a/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/annim/OneDrive/Tiedostot/h3a/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/annim/OneDrive/Tiedostot/h3a/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/list_install_components.dir
+C:/Users/annim/OneDrive/Tiedostot/h3a/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/install.dir
+C:/Users/annim/OneDrive/Tiedostot/h3a/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/install/local.dir
+C:/Users/annim/OneDrive/Tiedostot/h3a/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/install/strip.dir
